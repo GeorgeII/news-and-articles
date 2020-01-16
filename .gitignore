@@ -1,0 +1,6 @@
+# PyCharm
+.idea/
+
+resources/database-config.json
+resources/telegram-config.json
+
